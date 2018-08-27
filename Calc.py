@@ -11,4 +11,4 @@ def divide(x,y):
   return x/y
 
 def xor(x,y):
-  return x
+  return y-x
